@@ -99,7 +99,7 @@ All these sheets have the following columns:
     
 Clone this repo
 
-    git clone https://github.com/SinaLab/OffensiveHebrew
+    git clone https://github.com/SinaLab/BiasFignews
 
 ## Citation
 
