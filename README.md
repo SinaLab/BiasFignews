@@ -6,20 +6,20 @@ A multilingual corpus of 12,000 Facebook posts fully annotated for bias and prop
 
 Tables below illustrate the distribution of the bias and propaganda classes across languages.
 
-| **Class**                | **Ar**   | **En**   | **He**   | **Fr**   | **Hi**   | **Total** |
+| Class                    | Ar   | En   | He   | Fr   | Hi   | Total |
 | ------------------------ | ---- | ---- | ---- | ---- | ---- | ----- |
-| Biased Against Palestine | 466  | 514  | 595  | 807  | 534  | **2916**  |
-| Biased Against Israel    | 94   | 79   | 23   | 19   | 70   | **285**   |
-| Biased Against Both      | 6    | 7    | 11   | 6    | 14   | **44**    |
-| Biased Against Others    | 42   | 28   | 53   | 39   | 49   | **211**   |
-| Unbiased                 | 1371 | 1486 | 1369 | 1212 | 1386 | **6824**  | 
-| Not applicable           | 49   | 7    | 17   | 20   | 25   | **118**   |
-| Unclear                  | 132  | 39   | 92   | 57   | 82   | **402**   |
-| **Total**                | **2160** | **2160** | **2160** | **2160** | **2160** | **10800** |
+| Biased Against Palestine | 466  | 514  | 595  | 807  | 534  | 2916  |
+| Biased Against Israel    | 94   | 79   | 23   | 19   | 70   | 285   |
+| Biased Against Both      | 6    | 7    | 11   | 6    | 14   | 44    |
+| Biased Against Others    | 42   | 28   | 53   | 39   | 49   | 211   |
+| Unbiased                 | 1371 | 1486 | 1369 | 1212 | 1386 | 6824  | 
+| Not applicable           | 49   | 7    | 17   | 20   | 25   | 118   |
+| Unclear                  | 132  | 39   | 92   | 57   | 82   | 402   |
+| Total                    | 2160 | 2160 | 2160 | 2160 | 2160 | 10800 |
 
 The above table shows that about 32% of the posts are biased against either Palestine, Israel, Both, or Others, most of the bias against Palestine originated from French posts.
 
-| **Class**                    | Ar   | En   | He  | Fr  | Hi  | Total |
+| Class                        | Ar   | En   | He  | Fr  | Hi  | Total |
 | ---------------------------- | ---- | ---- | --- | --- | --- | ----- |
 | Propaganda Must be deleted   | 332  | 488  | 382 | 461 | 396 | 2059  |
 | Propaganda May be deleted    | 192  | 191  | 266 | 348 | 277 | 1274  |
@@ -27,7 +27,7 @@ The above table shows that about 32% of the posts are biased against either Pale
 | Not propaganda               | 1033 | 1021 | 882 | 649 | 977 | 4562  |
 | Not applicable               | 48   | 11   | 17  | 16  | 24  | 116   |
 | Unclear                      | 104  | 27   | 48  | 38  | 50  | 267   |
-| **Total**                | **2160** | **2160** | **2160** | **2160** | **2160** | **10800** |
+| Total                        | 2160 | 2160 | 2160 | 2160 | 2160 | 10800 |
 
 Similarly, this table shows that 54% of the posts are classified as propaganda, either must/may/not be deleted. The majority of the propaganda originated from French posts.
 
