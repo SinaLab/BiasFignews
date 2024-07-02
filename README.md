@@ -53,7 +53,7 @@ Tables below illustrate the distribution of the bias and propaganda classes acro
 
 
 
-*Table 1* and *Table 2* illustrate the distribution of the bias classes and types of bias across languages respectively. *Table 1* shows that about 27% of the posts are biased against Palestine and 63% of the posts are unbiased. Most of the bias against Palestine originated from French posts. *Table 2* gives more statistics about the types of bias. As shown in this table, most of the posts annotated as Explicit bias are in Hebrew.
+*Table 1* and *Table 2* illustrate the distribution of the bias classes and types of bias across languages respectively. *Table 1* shows that about 27% of the posts are biased against Palestine and 63% of the posts are unbiased. Most of the bias against Palestine originated from French posts. *Table 2* gives more statistics about the types of bias. As shown in this table, most of the posts annotated as Explicit bias are in Hebrew. 
 For propaganda results, *Table 3* illustrates the distributions of propaganda classes across languages, which shows that 31% of the posts (3333) are annotated as "Propaganda", and 66% (7084) are "Not Propaganda". The majority of the propaganda originated from French posts. *Table 4* illustrates the distribution of the type of propaganda classes among languages. As shown in the table posts that were classified as propaganda must be deleted were in French with 348 posts.
 
 
