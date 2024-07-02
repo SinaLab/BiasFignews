@@ -16,20 +16,33 @@ Tables below illustrate the distribution of the bias and propaganda classes acro
 | Not applicable           | 49   | 7    | 17   | 20   | 25   | 118   |
 | Unclear                  | 132  | 39   | 92   | 57   | 82   | 402   |
 | Total                    | 2160 | 2160 | 2160 | 2160 | 2160 | 10800 |
+Table 1 : Distribution of bias classes across languages 
 
-The above table shows that about 32% of the posts are biased against either Palestine, Israel, Both, or Others, most of the bias against Palestine originated from French posts.
 
-| Class                        | Ar   | En   | He  | Fr  | Hi  | Total |
-| ---------------------------- | ---- | ---- | --- | --- | --- | ----- |
-| Propaganda Must be deleted   | 332  | 488  | 382 | 461 | 396 | 2059  |
-| Propaganda May be deleted    | 192  | 191  | 266 | 348 | 277 | 1274  |
-| Propaganda not to be deleted | 451  | 422  | 265 | 648 | 436 | 2522  |
-| Not propaganda               | 1033 | 1021 | 882 | 649 | 977 | 4562  |
-| Not applicable               | 48   | 11   | 17  | 16  | 24  | 116   |
-| Unclear                      | 104  | 27   | 48  | 38  | 50  | 267   |
-| Total                        | 2160 | 2160 | 2160 | 2160 | 2160 | 10800 |
+| Typs of Bias        | Ar  | En   | He   | Fr   | Hi   | Total |
+| ------------------  | --- | ---- | ---- | ---- | ---- | ----- |
+| Explicit (تحيز صريح) | 2093  | 388  | 412  | **563**  | 336 | 394  |
+| Implicit (تحيز ضمني) | 1186  | 269  | 236  | 265  | 217 | 199  |
+| Vague (تحيز مبهم)     | 211  | 27  | 52  | 59  | 37 |  36   |
+Table 2: Types of Bias
 
-Similarly, this table shows that 54% of the posts are classified as propaganda, either must/may/not be deleted. The majority of the propaganda originated from French posts.
+
+| Class          | Ar   | En   | He   | Fr   | Hi   | Total |
+| -------------- | ---- | ---- | ---- | ---- | ---- | ----- |
+| Propaganda     | 524  | 679  | 648  | 809  | 673  | 3333  |
+| Not propaganda | 1484 | 1443 | 1447 | 1297 | 1413 | 7084  |
+| Not applicable | 48   | 11   | 17   | 16   | 24   | 116   |
+| Unclear        | 104  | 27   | 48   | 38   | 50   | 267   |
+| Total          | 2160 | 2160 | 2160 | 2160 | 2160 | 10800 |
+Table 3: Distribution of propaganda subtask classes across languages 
+
+
+| Class                        | Ar  | En  | He  | Fr   | Hi   | Total |
+| ---------------------------- | --- | --- | --- | ---- | ---- | ----- |
+| Propaganda Must be deleted   | 192 | 191 | 266 | **348** | 277 | 1274 |
+| Propaganda May be deleted    | 524 | 488 | 382 | 461 | 396 | 2059 |
+| Propaganda not to be deleted | 451 | 422 | 565 | 648 | 436 | 2522 |
+Table 4: Types of Propaganda classes  
 
 ## Corpus Download
 
