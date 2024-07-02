@@ -20,6 +20,7 @@ Tables below illustrate the distribution of the bias and propaganda classes acro
 Table 1 : Distribution of bias classes across languages 
 
 
+
 | Typs of Bias        | Ar  | En   | He   | Fr   | Hi   | Total |
 | ------------------  | --- | ---- | ---- | ---- | ---- | ----- |
 | Explicit (تحيز صريح) | 2093  | 388  | 412  | **563**  | 336 | 394  |
@@ -27,6 +28,7 @@ Table 1 : Distribution of bias classes across languages
 | Vague (تحيز مبهم)     | 211  | 27  | 52  | 59  | 37 |  36   |
 
 Table 2: Types of Bias
+
 
 
 | Class          | Ar   | En   | He   | Fr   | Hi   | Total |
@@ -40,6 +42,7 @@ Table 2: Types of Bias
 Table 3: Distribution of propaganda subtask classes across languages 
 
 
+
 | Class                        | Ar  | En  | He  | Fr   | Hi   | Total |
 | ---------------------------- | --- | --- | --- | ---- | ---- | ----- |
 | Propaganda Must be deleted   | 192 | 191 | 266 | **348** | 277 | 1274 |
@@ -47,6 +50,7 @@ Table 3: Distribution of propaganda subtask classes across languages
 | Propaganda not to be deleted | 451 | 422 | 565 | 648 | 436 | 2522 |
 
 Table 4: Types of Propaganda classes  
+
 
 ## Corpus Download
 
